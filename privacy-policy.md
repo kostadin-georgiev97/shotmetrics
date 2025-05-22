@@ -65,7 +65,7 @@ Your data is retained until:
 
 ## 5. Children’s Privacy
 
-ShotMetrics is **not intended for children under 13 years old**. We do not knowingly collect personal data from users under this age.
+ShotMetrics is **not intended for children under 3 years old**. We do not knowingly collect personal data from users under this age.
 
 ---
 
