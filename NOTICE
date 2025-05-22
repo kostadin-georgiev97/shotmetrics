@@ -1,0 +1,42 @@
+ShotMetrics - Basketball Shot Tracker
+Copyright © 2025 Kostadin Georgiev
+All rights reserved.
+
+---
+
+This app includes the following third-party software components:
+
+1. **Firebase (Auth, Firestore)**
+   - Source: https://firebase.google.com
+   - License: Apache License 2.0
+   - © Google LLC
+   - NOTICE: Firebase is licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+2. **Google Sign-In SDK**
+   - Source: https://developers.google.com/identity
+   - License: Apache License 2.0
+   - © Google LLC
+
+3. **Apple Sign-In (via @invertase/react-native-apple-authentication)**
+   - Source: https://github.com/invertase/react-native-apple-authentication
+   - License: MIT License
+
+4. **Space Mono Font**
+   - Source: https://fonts.google.com/specimen/Space+Mono
+   - License: SIL Open Font License, Version 1.1
+   - © Google Fonts
+
+5. **react-native-skia (via @shopify/react-native-skia)**
+   - Source: https://github.com/Shopify/react-native-skia
+   - License: MIT License
+
+6. **Expo SDK and related packages**
+   - Source: https://expo.dev
+   - License: MIT License
+
+---
+
+This app complies with the respective open-source licenses of all included libraries. No modifications were made to these libraries except as permitted under their terms.
+
+If you have questions about licensing, contact: shotmetricsapp@gmail.com
+
