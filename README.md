@@ -4,8 +4,8 @@ This repository contains the official legal documents for **ShotMetrics**, a mob
 
 ## 📄 Documents
 
-- [Privacy Policy](https://kostadin-georgiev97.github.io/shotmetrics/privacy-policy)
-- [Terms & Conditions](https://kostadin-georgiev97.github.io/shotmetrics/terms-and-conditions)
+- [Privacy Policy](https://kostadin-georgiev97.github.io/shotmetrics/privacy-policy.md)
+- [Terms & Conditions](https://kostadin-georgiev97.github.io/shotmetrics/terms-and-conditions.md)
 
 These documents explain how we collect and process your data, your rights as a user, and the conditions for using the ShotMetrics app.
 
