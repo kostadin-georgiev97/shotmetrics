@@ -14,7 +14,7 @@ By using the app, you agree to these Terms. If you do not agree, do not use Shot
 
 ## 1. Eligibility
 
-You must be at least **13 years old** to use ShotMetrics.
+You must be at least **3 years old** to use ShotMetrics.
 
 ---
 
